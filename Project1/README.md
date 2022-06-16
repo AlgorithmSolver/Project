@@ -3,7 +3,7 @@
 ## 주제#1 : 개인 웹사이트 제작
 ### 1. 피그마 제작
 #### 0) TEST 
-![](./journey.jpg){: width="500" height="500"}
+![](./journey.jpg){:width="500" height="500"}
 
 #### 1) 레이아웃 제작
 
